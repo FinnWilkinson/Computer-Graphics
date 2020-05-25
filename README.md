@@ -1,4 +1,4 @@
-Code for the renderer that myself and a fellow student created for our joint Computer Graphics pair coursework at the University of Bristol in out Third year. Mark achieved - 80
+Code for the renderer that myself and a fellow student created for our joint Computer Graphics pair coursework at the University of Bristol in out Third year. Mark achieved - 80% (1st)
 
 Below is a list of features that are included in the renderer. Although both a rasteriser and raytracer were implemented, most of the advanced lighting, material, and shadowing features were implemented for the raytracer only.
 
